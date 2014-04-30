@@ -32,3 +32,7 @@ end
 get '/hahahaha' do
 	"You're in"
 end
+
+get '/hahahaha' do
+	"You're also in"
+end
