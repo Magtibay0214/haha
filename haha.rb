@@ -28,3 +28,7 @@ end
 get '/hahaha' do
 	"You're in drugs"
 end
+
+get '/hahahaha' do
+	"You're in"
+end
